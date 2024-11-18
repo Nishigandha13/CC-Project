@@ -1,0 +1,13 @@
+com\example\SpringMongoProject\Repo\ManagerRepo.class
+com\example\SpringMongoProject\Repo\StudentRepo.class
+com\example\SpringMongoProject\SpringMongoProjectApplication.class
+com\example\SpringMongoProject\Entity\Employee.class
+com\example\SpringMongoProject\Controller\StudentController.class
+com\example\SpringMongoProject\Service\ManagerServices.class
+com\example\SpringMongoProject\Entity\Manager.class
+com\example\SpringMongoProject\Service\StudentServices.class
+com\example\SpringMongoProject\Service\EmployeeServices.class
+com\example\SpringMongoProject\Repo\EmployeeRepo.class
+com\example\SpringMongoProject\Entity\Student.class
+com\example\SpringMongoProject\Controller\EmployeeController.class
+com\example\SpringMongoProject\Controller\ManagerController.class
